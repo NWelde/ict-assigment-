@@ -1,0 +1,24 @@
+.container{
+    background-color: rgba(43, 43, 145, 0.7);
+    border-color: aqua;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 20px;
+}
+.headers{
+    text-align: center;
+    color:aqua;
+}
+.textarea{
+    min-height: 120px;
+  width: 100%;
+  padding: 0.625rem;
+  resize: vertical;
+}
+.submit{
+    margin-bottom: 20px;
+    width: 100%;
+    display: block;
+    color: green;
+}
